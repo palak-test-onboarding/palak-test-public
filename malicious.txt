@@ -1,0 +1,107 @@
+{"organizationInfo":{"Value":{"mdmId":"generic","organizationId":8068873,"productId":4,"regToken":""}}}
+URJA
+SAHIL
+YASH
+amarnath
+
+
+malware- RA- Quarantine
+
+malicious- detected-deleted- admin
+
+malicious_cisco_quarantined.
+- this
+
+
+types of files supportd, all extension
+html, .txt, .py, java, pdf all programming files
+pull request comment, description, file review- comment(Review comment), tag(only text and image)
+issuesdifferent tab- title description and file
+
+
+exposure- public, internal and external and user specific
+
+
+rules api- SSE
+
+CHECK WEBHOOK service in GitHub
+	
+
+
+SFCC B2C-
+only sandbox
+only content, no file , images supported for dlp and malware
+check user notifications
+no exposure
+test rules api
+malware for images
+
+
+android-
+
+
+openssl8-
+
+1. Registration
+2. sync
+3. block
+4. policy debug
+5. activity search
+
+
+fedramp- umbrella- stage-
+
+fedramp-sse-stage
+https://dashboard.stg.secureaccessfed.cisco/org/8068873/admin/accounts
+
+commercial - SSE - prod
+
+COMMERCIAL - UMBRELLA - prod
+
+unmanaged - in SSE commercial env
+
+
+sync bug- apk- dipanshu - 
+fedramp SSE
+https://dashboard.stg.secureaccessfed.cisco/org/8068873/admin/accounts
+
+
+https://cisco-sbg.atlassian.net/browse/UDLP-19204
+https://cisco-sbg.atlassian.net/browse/UDLP-19259
+https://cisco-sbg.atlassian.net/browse/UDLP-19260
+https://cisco-sbg.atlassian.net/browse/UDLP-19261
+
+
+API Key - 3615e0140d2f4569b9a6f6f849426152
+Key Secret - 43e6d577ffc848609d8cf0c4e58faa9f
+https://dashboard.stg.secureaccessfed.cisco/org/8068873/resources/roamingdevices
+
+
+key- 56360616e33f4e71b722a600cbde037c
+secret- 6e22a06de92546309c7877cef191fed6
+
+
+
+
+nVoLAbTNGUcCr!_Q4eTW
+https://dashboard.int.sse.cisco.com/org/8257905/admin/authentication
+https://dashboard.sse.cisco.com/org/8186244/admin/authentication
+
+tombstone
+SFCC
+Douglas
+NDA Account
+
+
+Hi Douglas,
+
+I have onboarded a few accounts in ms365,webex and box. You can use onboarded instances for creating policy.
+Accounts I have shared on 1password also. You can use 1password links to login into accounts of MS365, box, Webex respectively and upload unclassified files. You might have received an email as well.
+
+Microsoft365 - https://share.1password.com/s#Nha8KIpq8I9xg7rvpyxFihGG4fPM_wCmzrzN-xZ9F4k
+WEBEX- https://share.1password.com/s#qzVH6f5sNLdENrXiYNzV6RqMALfyRcSwnqcgZCbZ3uc
+Box- https://share.1password.com/s#-toAg4Tvtp74Q_9NS8hNzSw-Hm7-QeH0ltbs-Am0ek4
+
+Dashboard link - https://dashboard.int.sse.cisco.com/org/8247177/admin/authentication
+
+Please feel free to reach me out in case of any issue. Thanks!
