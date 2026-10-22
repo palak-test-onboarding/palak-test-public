@@ -1,0 +1,1 @@
+{"failClose":{"Value":false},"failOpenRetryInterval":{"Value":5},"googleDirectoryService":{"Value":false},"organizationInfo":{"Value":{"organizationId":8335225,"productId":3,"regToken":"B0ZtMDM9FmC4SyL2BJVbY0Mmxz95Msii","region":"global"}},"publicSession":{"Value":false},"vaIPs":{"Value":[]}}
